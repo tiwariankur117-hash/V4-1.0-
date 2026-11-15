@@ -1,0 +1,10 @@
+VYRA Studio V4.0.9 Final UI Polish
+
+Changes:
+- Increased visibility and corrected stacking of slow blurred neon background on all pages.
+- Subtle glowing eye logo on login/signup and small header logo.
+- Custom branded accessible logout confirmation with Cancel / Log Out.
+- Preserved all existing website assets, pages and functionality.
+
+Deployment: extract this ZIP and upload ALL contents (not the parent folder) to your GitHub repository root. Commit changes and let Cloudflare Pages redeploy.
+This is a static frontend demo; secure authentication and AI generation are not connected.
